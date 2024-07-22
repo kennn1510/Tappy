@@ -41,3 +41,4 @@ shape = SubResource("RectangleShape2D_spb3d")
 libraries = {
 "": SubResource("AnimationLibrary_8r06y")
 }
+autoplay = "flash"
