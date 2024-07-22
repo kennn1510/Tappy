@@ -15,5 +15,4 @@ func _process(delta):
 
 
 func _on_screen_exited():
-	print("_on_screen_exited")
 	queue_free()
